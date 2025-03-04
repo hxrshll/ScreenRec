@@ -1,9 +1,3 @@
-It looks like you're seeing merge conflict markers in the `README.md` file (e.g., `<<<<<<< HEAD` and `=======`). These markers appear when there are conflicting changes in the file that need to be resolved. They aren't meant to be part of the final file.
-
-To fix this, you just need to remove the conflict markers and ensure that the content is consistent. Here’s the clean, fixed version of your `README.md` file:
-
----
-
 # Screen Recorder with Electron
 
 ## Description
@@ -59,9 +53,3 @@ Feel free to fork the repository and create pull requests with improvements. If 
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-This should resolve the merge conflicts and make the `README.md` work properly. You can now copy and paste this version directly into your file.
-
-Let me know if you need further assistance!
