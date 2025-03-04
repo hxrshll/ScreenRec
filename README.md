@@ -33,7 +33,11 @@ Usage
 Open the app.
 Choose whether to record your entire screen or select a specific window.
 Click "Start Recording" to begin capturing.
+<<<<<<< HEAD
 Click "Stop Recording" when you're done, and the video will be saved to your desired location.
+=======
+Click "Stop Recording" when you’re done, and the video will be saved to your desired location.
+>>>>>>> 8875e0e368590715388561b0cd736e8419f4f988
 Technologies Used
 Electron: Framework for building desktop applications with web technologies.
 ffmpeg: A powerful multimedia framework to record, convert, and stream audio and video.
@@ -45,4 +49,8 @@ Open an issue for discussion before submitting your pull request.
 Ensure your code follows existing style guidelines.
 Write tests for any new features or bug fixes.
 License
+<<<<<<< HEAD
 This project is licensed under the MIT License – see the LICENSE file for details.
+=======
+This project is licensed under the MIT License – see the LICENSE file for details.
+>>>>>>> 8875e0e368590715388561b0cd736e8419f4f988
